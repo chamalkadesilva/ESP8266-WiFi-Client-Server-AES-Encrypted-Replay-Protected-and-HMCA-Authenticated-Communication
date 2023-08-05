@@ -18,16 +18,16 @@ Communicate securely between two ESP8266 microcontrollers using AES encryption, 
 </ul>
 
 <H2>Setup</H2>
-<b>Hardware Requirements:</b>
-Two ESP8266 microcontrollers.
+<b>Hardware Requirements:</b><br>
+Two ESP8266 microcontrollers.<br>
 A WiFi network.
 <br><br>
-<b>Software Requirements:</b>
-Arduino IDE with ESP8266 board support installed.
-Required libraries: AESLib, ESP8266WiFi, ESP8266HTTPClient (for client), ESP8266WebServer (for server), and BearSSLHelpers.
+<b>Software Requirements:</b><br>
+Arduino IDE with ESP8266 board support installed.<br>
+Required libraries: <b>AESLib</b>, <b>ESP8266WiFi</b>, <b>ESP8266HTTPClient</b> (for client), <b>ESP8266WebServer</b> (for server), and <b>BearSSLHelpers</b>.
 <br><br>
-<b>Configuration:</b>
-Set your WiFi SSID and password in both the client and server scripts.
+<b>Configuration:</b><br>
+Set your WiFi SSID and password in both the client and server scripts.<br>
 Make sure both devices are within the range of the specified WiFi network.
 
 <H2>Usage</H2>
