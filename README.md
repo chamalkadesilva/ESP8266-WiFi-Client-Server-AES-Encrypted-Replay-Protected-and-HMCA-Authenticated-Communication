@@ -14,7 +14,7 @@ Communicate securely between two ESP8266 microcontrollers using AES encryption, 
   <li>client.ino</li>
   <li>server.ino</li>
   <li>README.md</li>
-  <li>Libraries.zip</li>
+  <li>libraries.zip</li>
 </ul>
 
 <H2>Setup</H2>
