@@ -25,6 +25,7 @@ A WiFi network.
 <b>Software Requirements:</b>
 Arduino IDE with ESP8266 board support installed.
 Required libraries: AESLib, ESP8266WiFi, ESP8266HTTPClient (for client), ESP8266WebServer (for server), and BearSSLHelpers.
+<br><br>
 <b>Configuration:</b>
 Set your WiFi SSID and password in both the client and server scripts.
 Make sure both devices are within the range of the specified WiFi network.
